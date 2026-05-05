@@ -6,3 +6,7 @@ class Solution:
         doubled = s+s
 
         return goal in doubled
+
+
+#hello
+    
